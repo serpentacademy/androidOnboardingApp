@@ -11,11 +11,11 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent" />
     <com.google.android.material.tabs.TabLayout
-        android:id="@+id/table_layout"
+        android:id="@+id/tab_layout"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_alignParentBottom="true"
-        android:layout_centerHorzontal="true"
+        android:layout_centerHorizontal="true"
         android:background="@android:color/transparent"
         app:tabGravity="center"
         app:tabIndicatorHeight="0dp"
